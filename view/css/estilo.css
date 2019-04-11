@@ -1,0 +1,58 @@
+body {
+    background: #FF8C00;
+}
+
+.imagem-logo {
+    width: 200px;
+    height: 100px;
+}
+
+.menu {
+    width: 1000;
+    height: 50;
+    background: #87CEEB;
+}
+
+.nome {
+    font: 40px, 'serif''sans-serif' black;
+    text-align: center;
+    padding: 20px;
+}
+
+.produtos {
+    padding: 0;
+    width: 1320;
+    border: 2;
+    margin: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    clear: left;
+    margin-top: 50px;
+    background-color: #87CEEB;
+}
+
+.img-produto {
+    width: 50%;
+    height: 150px;
+}
+
+.imgs-apresentacao {
+    float: left;
+    width: 30%;
+    height: 25%;
+}
+
+.galeria {
+    margin-left: 10%;
+}
